@@ -65,6 +65,13 @@
 - Next.js + Prisma + Neon + Vercel Blob
 - Modular auth logic, extensible for WebAuthn, collaboration, and previews
 
+
+#### 🎨 [PixiAI](https://pixi-ai.vercel.app/)
+> Professional AI-powered image editor with advanced editing tools, real-time collaboration, and subscription management.
+- Complete editing suite (crop, resize, color adjust) + AI features (background removal, content generation, upscaling)
+- Next.js 15 + Convex + Clerk + ImageKit + Fabric.js
+- Real-time canvas state management, subscription billing integration, and extensible AI tool architecture
+
 ---
 
 ### 📊 GitHub Stats
