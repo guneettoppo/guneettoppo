@@ -75,6 +75,18 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=guneettoppo&show_icons=true&theme=react" />
+
+
+  <br/>
+
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=guneettoppo&theme=tokyonight&hide_border=false" />
+
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshxcode/divyanshxcode/output/github-snake-dark.svg" />
