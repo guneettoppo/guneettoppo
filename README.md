@@ -30,14 +30,6 @@ Also on here: [Vera](https://github.com/guneettoppo/vera-bot) — grounded merch
 
 ---
 
-## Currently
-
-- Building **FlashKV** and **Everhook** — the primitives are hand-written rather than delegated to a framework or library.
-- Contributing to **Spurti** at VLED Lab, IIT Ropar — SSO/auth, rate limiting, and squad/leaderboard features in a React + Express + MongoDB codebase.
-- Open to **SDE / backend engineering internships**.
-
----
-
 ## Toolbox
 
 #### 💻 Languages
